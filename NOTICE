@@ -1,0 +1,17 @@
+Third-party asset notice
+========================
+
+This project documents and implements readers for file formats used by
+FUN Labs' "Shadow Force: Razor Unit" (and related titles). The source code and
+format documentation are licensed under the MIT license (see LICENSE).
+
+The original game, its archives, and any game-derived assets are NOT licensed
+under the MIT license. The converted example models in `examples/models/` were
+produced from `.fun` archives supplied by the repository owner for research and
+interoperability purposes. They are provided only as test fixtures / examples
+for the open-source tools and remain the property of their respective rights
+holders. Do not redistribute them outside this repository unless you have the
+right to do so.
+
+The tools themselves do not ship game data: users supply their own legally
+owned copies of the game archives as input.

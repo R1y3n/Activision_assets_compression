@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "razorformats"
+version = "0.1.0"
+description = "Open-source readers, format documentation and converters for FUN Labs .fun archives and proprietary game formats"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.scripts]
+razor-extract = "razorformats.cli:main_extract"
+razor-inspect = "razorformats.cli:main_inspect"
+razor-convert = "razorformats.cli:main_convert"
+razor-convert-all = "razorformats.cli:main_batch"
+razor-repack = "razorformats.cli:main_repack"
+razor-bundle = "razorformats.cli:main_bundle"
+razor-verify = "razorformats.cli:main_verify"
+razor-ultra-pack = "razorformats.cli:main_ultra_pack"
+razor-ultra-restore = "razorformats.cli:main_ultra_restore"
+razor-ultra-verify = "razorformats.cli:main_ultra_verify"
+
+[tool.setuptools.packages.find]
+where = ["src"]

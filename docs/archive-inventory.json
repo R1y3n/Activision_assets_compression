@@ -1,0 +1,115 @@
+{
+  "bsp.fun": {
+    "bytes": 51463045,
+    "entries": 26,
+    "extensions": {
+      ".bsp": 26
+    }
+  },
+  "cutscenes.fun": {
+    "bytes": 3462652,
+    "entries": 60,
+    "extensions": {
+      ".anim": 17,
+      ".obj": 16,
+      ".model": 14,
+      ".tga": 7,
+      ".script": 3,
+      ".lua": 2,
+      ".log": 1
+    }
+  },
+  "editor.fun": {
+    "bytes": 83706,
+    "entries": 10,
+    "extensions": {
+      "(none)": 3,
+      ".tga": 2,
+      ".script": 2,
+      ".lua": 1,
+      ".ini": 1,
+      ".cfg": 1
+    }
+  },
+  "fonts.fun": {
+    "bytes": 6554,
+    "entries": 14,
+    "extensions": {
+      ".fnt": 14
+    }
+  },
+  "fx.fun": {
+    "bytes": 648499,
+    "entries": 36,
+    "extensions": {
+      ".tga": 32,
+      ".fx": 3,
+      ".script": 1
+    }
+  },
+  "map.fun": {
+    "bytes": 833327,
+    "entries": 28,
+    "extensions": {
+      ".txt": 18,
+      ".tga": 8,
+      ".script": 2
+    }
+  },
+  "objects.fun": {
+    "bytes": 36266256,
+    "entries": 1599,
+    "extensions": {
+      ".anim": 510,
+      ".tga": 385,
+      ".obj": 330,
+      ".model": 193,
+      ".script": 174,
+      ".lua": 2,
+      ".anim_": 1,
+      ".tani": 1,
+      "._obj": 1,
+      "._tga_": 1,
+      ".exe": 1
+    }
+  },
+  "patch1.fun": {
+    "bytes": 216,
+    "entries": 1,
+    "extensions": {
+      ".script": 1
+    }
+  },
+  "script.fun": {
+    "bytes": 8825,
+    "entries": 8,
+    "extensions": {
+      ".lua": 7,
+      ".txt": 1
+    }
+  },
+  "shaders.fun": {
+    "bytes": 56906,
+    "entries": 28,
+    "extensions": {
+      ".script": 28
+    }
+  },
+  "sound.fun": {
+    "bytes": 38464623,
+    "entries": 781,
+    "extensions": {
+      ".wav": 779,
+      ".lua": 1,
+      ".cfg": 1
+    }
+  },
+  "textures.fun": {
+    "bytes": 43706243,
+    "entries": 811,
+    "extensions": {
+      ".tga": 810,
+      ".dat": 1
+    }
+  }
+}
